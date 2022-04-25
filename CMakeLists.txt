@@ -46,7 +46,7 @@ endif()
 
 
 
-FILE(GLOB MAIN ./main.cpp)
+FILE(GLOB MAIN ./main.c)
 
 
 
